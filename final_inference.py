@@ -1,5 +1,7 @@
 
 
+import subprocess
+subprocess.call(['pip', 'install', 'smdebug'])
 
 #TODO: Import your dependencies.
 #For instance, below are some dependencies you might need if you are using Pytorch
